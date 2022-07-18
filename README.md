@@ -1,5 +1,6 @@
-- 👋 Hi There, I’m Aryan Tyagi
-- 🌱 I’m currently learning ...MERN Stack
-- 👀 I’m interested in ...Web Development
-- 💞️ I’m looking to collaborate on ...Front-End Web development projects
-- 📫 How to reach me ...e-mail:thearyantyagi1@gmail.com
+👋 Hey everyone Aryan here!!!
+🌱Enthusiastic and curious to learn new skills!!
+ I'm a Computer Science undergrad at AKTU.
+👀Being from tech background I know C/C++ , Python along with Data structures and Algorithms.
+I'm also learning MERN stack web-development
+You can checkout my projects on GitHub
